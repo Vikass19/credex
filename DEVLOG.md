@@ -1,6 +1,6 @@
 ## Day 1 — 2026-05-08
 
-**Hours worked:** 5
+**Hours worked:** 1
 
 **What I did:**
 - Initialized the project using React + Vite + JavaScript
