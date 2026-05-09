@@ -1,32 +1,6 @@
 ## Day 1 — 2026-05-08
 
-**Hours worked:** 2
-
-**What I did:**
-- Created the project repository and initialized the React + Vite application
-- Configured the initial project folder structure
-- Installed and setup Tailwind CSS
-- Setup React Router for routing
-- Pushed the initial project setup to GitHub
-- Planned the project structure and feature breakdown for the 5-day timeline
-
-**What I learned:**
-- Structuring the project properly early helps avoid confusion later
-- The assignment focuses heavily on product thinking and documentation, not just coding
-
-**Blockers / what I'm stuck on:**
-- Still deciding the best architecture for the audit engine logic
-- Need to research pricing sources and recommendation rules for AI tools
-
-**Plan for tomorrow:**
-- Build the landing page UI
-- Create the spend input form
-- Start implementing audit recommendation logic
-- Begin collecting pricing data from official sources
-
-## Day 2 — 2026-05-09
-
-**Hours worked:** 5
+**Hours worked:** 1
 
 **What I did:**
 Today I focused on planning the product architecture and defining the complete workflow of the AI Spend Audit platform before starting feature implementation. I finalized the core product direction and mapped how users move from landing page → audit generation → lead capture → shareable report.
@@ -58,10 +32,7 @@ One challenge is deciding how deeply to implement SEO and Open Graph previews in
 Another consideration is balancing speed of development with polish because the assignment scope is large for a 7-day timeline.
 
 **Plan for tomorrow:**
-
-* Initialize project setup fully
-* Configure Tailwind and routing
-* Start building landing page UI
-* Create reusable layout components
-* Begin spend audit form structure
-* Setup initial pricing data file
+- Complete the audit engine logic
+- Add savings calculations and recommendation rules
+- Persist form state using localStorage
+- Start building the results page
